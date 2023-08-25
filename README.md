@@ -1,6 +1,6 @@
 ## Members
-Vijay Mannava, Computer Engineering Student (2025)
-vijaym@vt.edu
+Vijay Mannava, Nathan Skirvin Computer Engineering Student (2025)
+vijaym@vt.edu, nathans02@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
@@ -16,11 +16,11 @@ Complete
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Develop a secure and efficient face detection system for electric scooters to ensure that only authorized individuals can activate and use the scooter. The system aims to enhance the security of electric scooters, thereby reducing unauthorized usage and theft.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The primary foundation of our project lies in the development of a Machine Learning and Computer Vision system. This system will utilize cutting-edge deep learning frameworks, such as TensorFlow or PyTorch, to develop a robust face recognition model. The aim is for this model to distinguish between authorized and unauthorized users efficiently, especially under a range of real-world conditions like varying lighting and angles. In the realm of Embedded Systems, our objective is to incorporate this face detection algorithm into the scooter's onboard microcontroller or a specialized embedded device. This integration will be optimized for real-time processing to ensure swift and accurate response times during face detection. Security is paramount, so our Security and Privacy protocols will employ state-of-the-art encryption methods for the safe storage and transmission of data, all while adhering strictly to prevailing privacy regulations related to biometric data. To foster a user-centric approach, our design will prioritize User Experience (UX) and Interface Design by creating a seamless setup process for facial data registration and integrating intuitive feedback mechanisms for users. This feedback, be it visual or auditory, will communicate the success or failure of recognition attempts. As we delve into System Integration and Testing, the face recognition module will be meticulously integrated with the scooter's control mechanisms. Rigorous field testing in diverse conditions will be instrumental in assessing the system's reliability and robustness. From a hardware perspective, careful attention will be given to the selection of an appropriate camera module with considerations such as resolution, sensitivity, and energy consumption. Ensuring prolonged battery life of the scooter will also be of utmost importance. Optionally, Networking and Communication features might be added to provide connectivity options, potentially allowing for remote updates or cloud processing.
 
 ## Tasks
 
